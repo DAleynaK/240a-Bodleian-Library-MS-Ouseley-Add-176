@@ -1,16 +1,16 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Folio",
-    "zoom":1,
+    "chapter":"Chapter 1: Introduction",
+    "zoom":0,
     "image":"img/pictorial-st-louis.png",
-    "source-credit":"Source: Library of Congres",
-    "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"A popular cartographic form used to depict U.S. and Canadian cities and towns during the late nineteenth and early twentieth centuries was the panoramic map. Known also as bird's-eye views, perspective maps, panoramas, and aero views, panoramic maps are nonphotographic representations of cities, portrayed as if viewed from above at an oblique angle. Although not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective.\" (Hebert & Dempsey)"},
+    "source-credit":"An excerpt of the Ibrahim Sultan Shanama, held today at Oxford University’s Bodleian library.",
+    "source-link":"http://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/wp-content/uploads/sites/161/2018/03/Presentation1.jpg",
+    "description":"In this folio from Ibrahim Sultan’s Shahnama, we start our journey into one of the most iconic texts that originated in the Middle East. The Shahnama, written by Abul-Qâsem Ferdowsi, is one of the key texts of Persian literature (Soheila, 2016). As a tale of the heroes of Persian history (Grabar, 2010), the Shahnama has become one of the key texts which define the Persian identity. Providing historic, mythological and even anthropological sources to researchers in many fields, it’s celebrated most of all for its literary value. To this day, the Shahnama is a treasure for researchers who aim to understand not just the Iranian people’s heritage, but also many other countries in the region ranging from Turkey to Pakistan. \n\n The Ibrahim Sultan Shahnama was commissioned by Ibrahim Sultan himself, who was the grandson of the great Timur, and the ruler of Southern Iran in the early fifteenth century (MET Museum, n.d.). In total, it consists of 470 folios (which are preserved), all folios created with the utmost care by its team of artists. Currently located at the University of Oxford’s Bodleian Library, the folios themselves are not in the order they were originally created in which means that this folio, listed as 240 Verso, is actually in the preface. \n \n As a part of the preface, it’s hard to tell if there is a story here at first glance. Upon further inspection, however, it becomes evident that even if there is no story from the manuscript associated with this image, the image itself tells us a lot about the societal structure of the Persian people, and perhaps even love, during the fifteenth century."},
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2: The Cherry Tree",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
