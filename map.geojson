@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: Introduction",
+    "chapter":"Bodleian Library MS. Ousley Add. 176 fol. 240a",
     "zoom":2,
     "image":"img/First Image.jpg",
     "source-credit":"An excerpt of the Ibrahim Sultan Shanama, held today at Oxford University’s Bodleian library.",
