@@ -50,7 +50,7 @@
     "zoom":3,
     "image":"",
     "description":"As a part of the preface, this folio appears humble at first as if it’s a simple illustration to flick through. Through further observation, however, it becomes clear that at a time when every type of visual illustration was rare and costly, no illustration was made without a purpose. We, unfortunately, do not know what the illustrator/s were thinking of exactly when they created this feast for the eyes, however, the possibilities of the stories being told here are endless. \n \n From hinting at a love story to documenting social norms, this manuscript reveals a treasure of information to those who take the time to look. The fact that even the folios in the preface are steeped with meaning hints at the richness of the Shahnama, especially the Ibrahim Sultan Shahnama."},
-    "geometry":{"type":"Point","coordinates":[]}},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: References",
